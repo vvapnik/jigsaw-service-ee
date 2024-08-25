@@ -1,0 +1,17 @@
+{
+  "name": "@vapnik/jigsaw-service-ee",
+  "description": "Simple event-emitter service for JigSaw",
+  "version": "0.0.1-alpha1",
+  "license": "MIT",
+  "author": "Vladislav Vapnik <vladislavvapnik@gmail.com>",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist",
+    "package.json",
+    "README.md"
+  ],
+  "dependencies": {
+    "@vapnik/jigsaw": "0.0.1-alpha6"
+  }
+}
