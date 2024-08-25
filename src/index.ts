@@ -1,0 +1,1 @@
+export {EventEmitter, type EventHandler} from './EventEmitter'
